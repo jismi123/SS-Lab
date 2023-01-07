@@ -2,7 +2,7 @@
 #include<stdlib.h>
 void main()
 {
-	int f[50],index[50],i,n,st,len,j,c,k,ind,p,a,count=0;
+	int f[50],i,st,len,j,c,p,a,k;
 	for(i=0;i<50;i++)
 		f[i]=0;
 	printf("Enter how many blocks already allocated:");
